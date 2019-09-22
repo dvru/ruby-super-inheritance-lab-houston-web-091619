@@ -4,5 +4,6 @@ def hello
  puts "Hey there! I'm so excited to learn stuff."
 end 
 
-def rais
+def raise_hand 
+  puts 
 end
